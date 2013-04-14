@@ -9,7 +9,7 @@ namespace _2013_04_13_Versionsverwaltung
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("DAs ist die erste Ausgabe");
+            Console.WriteLine("DAs ist die erste Eingabe");
         }
     }
 }
